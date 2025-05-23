@@ -1,7 +1,6 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vadimpopov1&theme=dark&locale=ru&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)      
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vadimpopov1&show_icons=true&theme=dark&locale=ru)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vadimpopov1&layout=compact&theme=dark&locale=ru&card_width=420px)
 ### :hammer_and_wrench: Языки и фреймворки :
 <div>
