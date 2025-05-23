@@ -1,8 +1,8 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vadimpopov1&theme=dark&locale=ru&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)      
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vadimpopov1&show_icons=true&theme=dark&locale=ru)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vadimpopov1&show_icons=true&theme=dark&locale=ru&card_width=600px)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vadimpopov1&layout=compact&theme=dark&locale=ru&card_width=420px)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vadimpopov1&layout=compact&theme=dark&locale=ru&card_width=600px)
 ### :hammer_and_wrench: Языки и фреймворки :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
