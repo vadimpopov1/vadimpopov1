@@ -3,7 +3,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vadimpopov1&show_icons=true&theme=dark&locale=ru)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vadimpopov1&layout=compact&theme=dark&locale=ru&card_width=420px)
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Языки и фреймворки :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40" height="40"/>&nbsp;
