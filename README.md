@@ -1,4 +1,4 @@
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vadimpopov1&theme=dark&locale=ru&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)      
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vadimpopov1&theme=dark&locale=ru&date_format=j%20M%5B%20Y%5D&card_width=600px)](https://git.io/streak-stats)      
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vadimpopov1&show_icons=true&theme=dark&locale=ru&card_width=600px)
 
